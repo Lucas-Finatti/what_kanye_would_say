@@ -11,6 +11,7 @@ function App() {
         <p className="text">What kanye West Wold Say</p>
       </header>
       <ButtonComponente />
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6275431882699677" crossorigin="anonymous"></script>
     </div> 
   );
 }
