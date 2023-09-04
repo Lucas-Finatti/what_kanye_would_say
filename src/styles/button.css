@@ -1,0 +1,21 @@
+.kanye_text {
+    font-size: 1.2rem;
+}
+
+.text_content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+button {
+    border: none;
+    height: 5vh;
+    width: 200px;
+    background-color: rgb(233, 112, 64);
+    border-radius: 10px;
+    font-weight: 600;
+}
